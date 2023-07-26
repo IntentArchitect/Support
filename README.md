@@ -1,6 +1,6 @@
 # Intent Architect Support
 
-Feel free to submit all your questions, bugs, feature requests for Intent Architect.
+Welcome to Intent Architect Support, feel free to submit all your questions, bugs, feature requests.
 
 ## Search our existing answers
 
