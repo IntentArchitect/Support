@@ -16,6 +16,4 @@ Didn't find what you were looking for...
 
 ## Create an Issue, so we can assist
 
-Looking for assistance, got a question or have new feature request?
-
-Visit the [Issues](https://github.com/IntentArchitect/Support/issues/new/choose) tab to log a issue.
+Looking for assistance, got a question or have new feature request, [create the issue](https://github.com/IntentArchitect/Support/issues/new/choose).
