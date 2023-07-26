@@ -12,8 +12,12 @@ Check the `Issues` and `Discussions` sections for relevant answers.
 
 ![Search](docs/images/support-search-results.png)
 
+We also have [documentation](https://docs.intentarchitect.com/articles/getting-started/welcome/welcome.html) available covering a wide range of topics.
+
 Didn't find what you were looking for...
 
 ## Create an Issue, so we can assist
 
 Looking for assistance, got a question or have new feature request, [create the issue](https://github.com/IntentArchitect/Support/issues/new/choose).
+
+
