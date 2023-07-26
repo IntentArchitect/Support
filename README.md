@@ -6,7 +6,7 @@ Feel free to submit all your questions, bugs, feature requests for Intent Archit
 
 Search our existing knowledge base using the built in GitHub search feature.
 
-![Search](docs/images/support-search.png)
+![Search](docs/images/support-search-bar.png)
 
 Check the `Issues` and `Discussions` sections for relevant answers.
 
