@@ -1,23 +1,17 @@
 # Intent Architect Support
 
-Welcome to Intent Architect Support, feel free to submit all your questions, bugs, feature requests.
+Welcome to Intent Architect Support repository, thanks for taking the time to engage with us.
 
-## Search our existing answers
+This repository has been set up to act as a knowledge base for Intent Architect users.
 
-Search our existing knowledge base using the built in GitHub search feature.
+ [**Search the `Issues` and `Discussions` sections**](https://github.com/search?q=repo%3AIntentArchitect%2FSupport%20&type=issues) to find existing answers.
 
-![Search](docs/images/support-search-bar.png)
+Not finding what you looking for...
 
-Check the `Issues` and `Discussions` sections for relevant answers.
+[**Ask a Question?**](https://github.com/IntentArchitect/Support/issues/new?assignees=&labels=question&projects=&template=ask_a_question.yml), not sure how to do something or looking for expert guidance, let us help you.
 
-![Search](docs/images/support-search-results.png)
+[**Log an Issue**](https://github.com/IntentArchitect/Support/issues/new?assignees=&labels=bug%2Ctriage&projects=&template=bug-report.yml), notify us of any bugs or issues found in Intent Architect or our Modules.
 
-We also have [documentation](https://docs.intentarchitect.com/articles/getting-started/welcome/welcome.html) available covering a wide range of topics.
+[**Request a Feature**](https://github.com/IntentArchitect/Support/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml), suggest an idea for Intent Architect, help us make the tool better for you.
 
-Didn't find what you were looking for...
-
-## Create an Issue, so we can assist
-
-Looking for assistance, got a question or have new feature request, [create the issue](https://github.com/IntentArchitect/Support/issues/new/choose).
-
-
+Looking for more information about using Intent Architect, check out our [**documentation**](https://docs.intentarchitect.com/articles/getting-started/welcome/welcome.html)  covering a wide range of topics.
