@@ -2,7 +2,7 @@
 
 # Intent Architect Support
 
-Welcome to Intent Architect Support repository, thanks for taking the time to engage with us.
+Welcome to the Intent Architect Support repository, thanks for taking the time to engage with us.
 
 This repository has been set up to act as a knowledge base for Intent Architect users.
 
@@ -10,9 +10,9 @@ This repository has been set up to act as a knowledge base for Intent Architect 
 
  [**Search the `Issues` and `Discussions` sections**](https://github.com/search?q=repo%3AIntentArchitect%2FSupport%20&type=issues) to find existing answers.
 
-Not finding what you looking for...
+Not finding what you're looking for...
 
-[**Ask a Question?**](/../../issues/new?assignees=&labels=question&projects=&template=ask_a_question.yml), not sure how to do something or looking for expert guidance, let us help you. 
+[**Ask a Question?**](/../../issues/new?assignees=&labels=question&projects=&template=ask_a_question.yml), not sure how to do something or looking for expert guidance, let us help you.
 
 [**Log an Issue**](/../../issues/new?assignees=&labels=bug%2Ctriage&projects=&template=bug-report.yml), notify us of any bugs or issues found in Intent Architect or our Modules.
 
